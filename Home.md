@@ -1,3 +1,2 @@
-Welcome to the Townscaper-3rd-party-Research wiki!
+No wiki here. All the content is in the main repo.
 
-[Texture Overview](Townscaper-Textures)
